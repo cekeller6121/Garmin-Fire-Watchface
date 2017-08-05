@@ -1,0 +1,6 @@
+<layout id="WatchFace">
+  <bitmap id="fire" filename="../images/black_fire_resize.png" x="center" y="center"/>
+    <label id="TimeLabel" x="left" y="top" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="DateLabel" x="left" y="bottom" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_GREEN" />
+    <label id="BatteryLabel" x="right" y="bottom" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_GREEN" />
+</layout>
